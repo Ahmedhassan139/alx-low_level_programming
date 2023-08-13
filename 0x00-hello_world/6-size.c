@@ -1,12 +1,11 @@
 #include <stdio.h>
+/**
+ *main - entry point
+ *
+ *Return:Always(0)
+ */
 int main(void)
-/*
- *that is printing values of data types
- */
 {
-/*
- *hi this is a comment
- */
 int i;
 char c;
 double d;
