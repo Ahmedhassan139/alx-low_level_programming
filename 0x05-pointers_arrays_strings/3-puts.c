@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  *_puts - jnkdsmf
  *return: jsklv;f
