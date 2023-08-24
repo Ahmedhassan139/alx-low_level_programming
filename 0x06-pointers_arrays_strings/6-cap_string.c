@@ -1,0 +1,19 @@
+char *cap_string(char *s)
+{
+   int c = 0;
+   int i = 0; 
+
+   while (s[c] != '\0')
+   {
+     if ((i %2 == 1) && s[c] >= 'a' && s[c] <= 'z')
+     {
+        s[c] = s[c] - 32; 
+     }
+     else if(s[c] == ' ')
+     {
+        i++; 
+     }
+     c++;
+  }
+   return (s);
+}
