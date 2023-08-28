@@ -3,7 +3,7 @@
  *@dest:mvfv
  *@src: mkfkfk
  *@n:fkmvlf,v
- *return:mfkvlf,v
+ *Return: mfkvlf,v
  */
 
 char *_memcpy(char *dest, char *src, unsigned int n)
