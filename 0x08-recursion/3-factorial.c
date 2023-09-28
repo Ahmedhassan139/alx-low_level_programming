@@ -1,7 +1,7 @@
 /**
- * factorial - returns the factorial of the number
- * @n: the max factorial
- * Return: factorial of number n
+ * factorial - returns thorial of the number
+ * @n: the max al
+ * Return: fl of number n
  */
 int factorial(int n)
 {
