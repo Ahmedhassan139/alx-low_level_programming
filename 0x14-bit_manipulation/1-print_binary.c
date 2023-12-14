@@ -18,7 +18,7 @@ void print_binary(unsigned long int n)
 	}
 }
 
-#include "holberton.h"
+#include "main.h"
 /**
   * print_binary - converts a decimal number to binary
   * @n: integer to convert
