@@ -1,5 +1,5 @@
-#ifndef Headers
-#define Headers
+#ifndef HEADERS
+#define HEADERS
 
 #include <unistd.h>
 
